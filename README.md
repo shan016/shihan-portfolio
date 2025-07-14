@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kalaivani Ramani | Laravel Developer</title>
+    <title>Mohamed Shihan | Full Stack Developer</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link href="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.css" rel="stylesheet" />
@@ -56,7 +56,7 @@
                     <a href="#contact" class="bg-blue-600 hover:bg-blue-700 text-white px-4 sm:px-6 py-2 sm:py-3 rounded-lg font-medium transition transform hover:-translate-y-1 shadow-lg text-center">
                         Contact Me
                     </a>
-                    <a href="assets/resume/Kalaivani_Ramani_Laravel_Developer_Resume_2025.pdf" download="Kalaivani_Ramani_Laravel_Developer_Resume_2025" target="_blank" class="border-2 border-blue-600 text-blue-400 hover:bg-gray-800 px-4 sm:px-6 py-2 sm:py-3 rounded-lg font-medium transition transform hover:-translate-y-1 text-center">
+                    <a href="assets/resume/shihan.pdf" download="Mohamed_Shihan_Full_Stack_Developer_Resume_2025" target="_blank" class="border-2 border-blue-600 text-blue-400 hover:bg-gray-800 px-4 sm:px-6 py-2 sm:py-3 rounded-lg font-medium transition transform hover:-translate-y-1 text-center">
                         Download Resume
                     </a>
                 </div>
